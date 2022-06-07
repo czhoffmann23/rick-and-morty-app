@@ -5,6 +5,9 @@ const queryGetCharacter = gql`
     character(id: $id) {
       id
       name
+      species
+      type
+      image
     }
   }
 `
