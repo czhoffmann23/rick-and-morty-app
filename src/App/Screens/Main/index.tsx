@@ -1,4 +1,4 @@
-import { Flex, Heading } from "@chakra-ui/react"
+import { Flex, Heading } from '@chakra-ui/react'
 
 const Main = () => {
   return (
